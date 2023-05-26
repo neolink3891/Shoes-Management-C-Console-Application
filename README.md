@@ -1,7 +1,7 @@
 # SHOES MANAGEMENT SYSTEM
 ## CONSOLE BASED C APPLICATION
 
-![alt text](https://github.com/neolink3891/Shoes-Management-C-Console-Application/blob/master/home.png?raw=true)
+![Home Screen](https://github.com/neolink3891/Shoes-Management-C-Console-Application/blob/master/images/home.png?raw=true)
 
 This is a Console Based Application writen in C for an University final project Assigment.
 
@@ -53,3 +53,5 @@ Everytime that the application starts it runs a verification when data from the 
 ## AUTOGENERATION OF DATA.TXT FILE
 
 Everytime that the application starts it verifies that the file data.txt exists in data folder, if not, it will create an empty one.
+
+![Good Bye](https://github.com/neolink3891/Shoes-Management-C-Console-Application/blob/master/images/goodbye.png?raw=true)
