@@ -1,4 +1,7 @@
-# SHOES MANAGEMENT SYSTEM - CONSOLE BASED C APPLICATION
+# SHOES MANAGEMENT SYSTEM
+## CONSOLE BASED C APPLICATION
+
+![alt text](https://github.com/neolink3891/Shoes-Management-C-Console-Application/blob/master/home.png?raw=true)
 
 This is a Console Based Application writen in C for an University final project Assigment.
 
